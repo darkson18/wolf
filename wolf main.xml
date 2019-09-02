@@ -1,0 +1,29 @@
+<dir>
+   <title>Movies</title>
+   <link>https://raw.githubusercontent.com/darkson18/wolf/master/dark%20m.xml</link>
+</dir>
+
+<dir>
+   <title>Tv</title>
+   <link>https://raw.githubusercontent.com/darkson18/wolf/master/d%20new%20tv.xml</link>
+</dir>
+
+<dir>
+   <title>Productions and Directors</title>
+   <link>https://raw.githubusercontent.com/momoney12/run/master/Productions%20and%20Directors.xml</link>
+</dir>
+
+<dir>
+   <title>Actors and Actess</title>
+   <link>https://raw.githubusercontent.com/darkson18/wolf/master/actors%20and%20actess.xml</link>
+</dir>
+<dir>
+<title>Search</title>
+<tmdb>search</tmdb>
+</dir>
+
+<plugin>
+    <name>Settings</name>
+    <link>plugin://plugin.video.wolf/?action=openSettings</link>
+    <thumbnail></thumbnail>
+</plugin>
