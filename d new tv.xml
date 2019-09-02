@@ -1,0 +1,41 @@
+<dir>
+    <title>Genre Tv</title>
+    <link>https://raw.githubusercontent.com/lost50/end-of-days/master/genre_tv.xml</link>
+ </dir>
+
+<dir>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
+</dir>
+
+<dir>
+  <title>Netflix Shows</title>
+  <tmdb>network/shows/213</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+<title>TV shows</title>
+<tmdb>list/https://www.themoviedb.org/list/120640</tmdb>
+</dir>
+<dir>
+<title>Marvel</title>
+<tmdb>list/https://www.themoviedb.org/list/120597</tmdb>
+</dir>
+<dir>
+<title> Anime </title>
+<tmdb>list/https://www.themoviedb.org/list/120614</tmdb>
+</dir>
+<dir>
+<title>Medieval</title>
+<tmdb>list/https://www.themoviedb.org/list/111099</tmdb>
+</dir>
+<dir>
+<title>Urban</title>
+<tmdb>list/https://www.themoviedb.org/list/97693</tmdb>
+</dir>
+<dir>
+<title>game shows</title>
+<tmdb>list/https://www.themoviedb.org/list/97970</tmdb>
+</dir>
